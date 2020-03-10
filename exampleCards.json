@@ -1,0 +1,28 @@
+[
+{
+	"id": "1",
+	"profile_image": "https://static-cdn.jtvnw.net/jtv_user_pictures/290fd9e739f0cfc7-profile_image-50x50.jpeg",
+	"profile_custom": null,
+	"profile_name": "Vercidax",
+	"profile_biography": "Video Game Analyst, Podcast Creator, Part-Time Streamer, Fill-Time Entrepreneur",
+	"featured_type": 3,
+    "featured_post": "5zUAvrdBT4c",
+    "facebook_link": null,
+    "instagram_link": "vercidax",
+    "twitter_link": "vercidax",
+    "youtube_link": "UCwqxq1zK9N-dHjRZmjs909g"
+},
+{
+	"id": "2",
+	"profile_image": "https://static-cdn.jtvnw.net/jtv_user_pictures/forstrei-profile_image-2edfecfc0c6888c3-70x70.png",
+	"profile_custom": "#3399ff",
+	"profile_name": "Forstrei",
+	"profile_biography": "Producer, Planner, Programmer, Pontificator, Procrastinator",
+	"featured_type": 4,
+    "featured_post": "h_n_H-zHgRs",
+    "facebook_link": null,
+    "instagram_link": null,
+    "twitter_link": "forstrei",
+    "youtube_link": "XBOJLKx3HayzfHqe6MXk-w"
+}
+]
